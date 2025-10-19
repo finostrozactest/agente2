@@ -1,13 +1,10 @@
-# --- Entorno Estable para Streamlit + LangChain ---
-
-# Frameworks Principales
+# --- Entorno de Máxima Estabilidad para Streamlit + LangChain ---
 streamlit==1.35.0
 pandas==2.2.2
 sqlalchemy==2.0.30
 openpyxl
-
-# Ecosistema LangChain (Conjunto compatible y verificado)
-langchain==0.1.20
-langchain-core==0.1.52
-langchain-community==0.0.38
-langchain-google-genai==1.0.2
+langchain==0.1.16
+langchain-core==0.1.45
+langchain-community==0.0.34
+langchain-google-genai==0.1.3
+nest-asyncio==1.6.0
