@@ -1,10 +1,8 @@
 streamlit
+pandas
+sqlalchemy
 langchain
 langchain-community
-langchain-experimental
-google-generativeai
 langchain-google-genai
-SQLAlchemy
-pandas
 openpyxl
-xlsxwriter
+pydantic<2.0.0
