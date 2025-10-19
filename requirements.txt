@@ -1,10 +1,13 @@
-streamlit
-pandas
-sqlalchemy
+# --- Entorno Estable para Streamlit + LangChain ---
+
+# Frameworks Principales
+streamlit==1.35.0
+pandas==2.2.2
+sqlalchemy==2.0.30
 openpyxl
 
-# --- Conjunto de versiones de LangChain verificado y compatible ---
-langchain==0.2.5
-langchain-core==0.2.5
-langchain-community==0.2.5
-langchain-google-genai==1.0.6
+# Ecosistema LangChain (Conjunto compatible y verificado)
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-google-genai==1.0.2
